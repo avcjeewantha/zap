@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: zap-master
+Bundle-SymbolicName: zap-master
+Bundle-Version: 1.0.0.qualifier
+Import-Package: com.google.common.base,
+ com.google.common.collect,
+ org.apache.commons.io,
+ com.sun.net.httpserver,
+ com.sun.jersey.api,
+ org.apache.logging.log4j,
+ org.apache.logging.log4j,
+ javax.ws.rs
